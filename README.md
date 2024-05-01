@@ -43,8 +43,8 @@ To use this API, follow the steps below to set it up on your local machine:
    dotnet run
 4. Expose API via [NGROK](ngrok.com)
    ```bash
-   ngrok http \<port\>
-  Where port is the prot that the project is running
+   ngrok http <port>
+  Where port is the port that the project is running
 
 the API will start running locally and can be accessed via making a request to localhost from the machine that it is running on, or through the URL that is provided by ngrok. These requestrs are most commonly made through curl in the command line.
 
