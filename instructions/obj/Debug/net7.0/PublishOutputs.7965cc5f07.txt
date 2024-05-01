@@ -1,0 +1,7 @@
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/instructions
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/appsettings.Development.json
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/appsettings.json
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/instructions.dll
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/instructions.deps.json
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/instructions.runtimeconfig.json
+/Users/gatlinfarrington/Documents/#dev1/simpleAPIs/instructions/instructions/instructions.pdb
